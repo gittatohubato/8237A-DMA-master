@@ -1,0 +1,486 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/17.1
+vA0A3Decoder
+Z0 !s110 1577467921
+!i10b 1
+!s100 iPW6lQ<;L<[IjJjMI[Io[2
+I_Amo`LzRT>BR:_o`OH9Ek3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/8237A-DMA-master/8237A-DMA-master
+w1577407126
+8E:/8237A-DMA-master/8237A-DMA-master/A0A3Decoder.v
+FE:/8237A-DMA-master/8237A-DMA-master/A0A3Decoder.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1577467921.000000
+!s107 E:/8237A-DMA-master/8237A-DMA-master/A0A3Decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8237A-DMA-master/8237A-DMA-master/A0A3Decoder.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -O0
+n@a0@a3@decoder
+vBaseAddress_and_BaseCount
+R0
+!i10b 1
+!s100 zXhi8<i`WVTUMKkOdV=WZ1
+I6kalH71<XOJigAcA^3[ze3
+R1
+R2
+Z6 w1577467847
+Z7 8E:/8237A-DMA-master/8237A-DMA-master/COMMAND_Register.v
+Z8 FE:/8237A-DMA-master/8237A-DMA-master/COMMAND_Register.v
+L0 64
+R3
+r1
+!s85 0
+31
+R4
+Z9 !s107 E:/8237A-DMA-master/8237A-DMA-master/COMMAND_Register.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|E:/8237A-DMA-master/8237A-DMA-master/COMMAND_Register.v|
+!s101 -O0
+!i113 1
+R5
+n@base@address_and_@base@count
+vchannels_priority
+R0
+!i10b 1
+!s100 Qn4kQhD_DY4kV5Lf;?94A0
+II<16m:h9ZhkgcBo4VRc@=2
+R1
+R2
+Z11 w1577233416
+Z12 8E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+Z13 FE:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+L0 13
+R3
+r1
+!s85 0
+31
+R4
+Z14 !s107 E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v|
+!s101 -O0
+!i113 1
+R5
+vCOMMAND_register
+R0
+!i10b 1
+!s100 APo`X;FZNfMIj>l=j7CWA1
+I[V[mN5j9`<nW^GJ4f39P_1
+R1
+R2
+R6
+R7
+R8
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!s101 -O0
+!i113 1
+R5
+n@c@o@m@m@a@n@d_register
+vcurrent_address
+R0
+!i10b 1
+!s100 H5I?jSiL65NFVYNVIT07j1
+IdTS56V^EhUhN@GJXNGZ2X0
+R1
+R2
+R6
+R7
+R8
+L0 103
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!s101 -O0
+!i113 1
+R5
+vDMA
+Z16 !s110 1577467922
+!i10b 1
+!s100 WjKH@U8BXB>dkA>`?Jka53
+Ih4H^GJkF5jznaSnQFzH903
+R1
+R2
+Z17 w1577415114
+Z18 8E:/8237A-DMA-master/8237A-DMA-master/DMA.v
+Z19 FE:/8237A-DMA-master/8237A-DMA-master/DMA.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+Z20 !s107 E:/8237A-DMA-master/8237A-DMA-master/DMA.v|
+Z21 !s90 -reportprogress|300|-work|work|-stats=none|E:/8237A-DMA-master/8237A-DMA-master/DMA.v|
+!s101 -O0
+!i113 1
+R5
+n@d@m@a
+vDMA_tb
+R16
+!i10b 1
+!s100 9d8dWJBX6JB`<ZIg>fQFR1
+ILe5LRlWY0a2l[Kn_eFFUm2
+R1
+R2
+R17
+R18
+R19
+L0 55
+R3
+r1
+!s85 0
+31
+R4
+R20
+R21
+!s101 -O0
+!i113 1
+R5
+n@d@m@a_tb
+velJoker
+R16
+!i10b 1
+!s100 @i1``DRfCX4bn3=OXkdB`3
+Iz9CREcfC^Xdd8f8KR[<H72
+R1
+R2
+R11
+8E:/8237A-DMA-master/8237A-DMA-master/EL_Joker.v
+FE:/8237A-DMA-master/8237A-DMA-master/EL_Joker.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z22 !s108 1577467922.000000
+!s107 E:/8237A-DMA-master/8237A-DMA-master/EL_Joker.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8237A-DMA-master/8237A-DMA-master/EL_Joker.v|
+!s101 -O0
+!i113 1
+R5
+nel@joker
+vexternal
+R16
+!i10b 1
+!s100 2LJPd7WgEeNNC[C7M0A^42
+IR>Ifo5=HMHmKFlD1[aYH_2
+R1
+R2
+R11
+8E:/8237A-DMA-master/8237A-DMA-master/testatatt.v
+FE:/8237A-DMA-master/8237A-DMA-master/testatatt.v
+L0 1
+R3
+r1
+!s85 0
+31
+R22
+!s107 E:/8237A-DMA-master/8237A-DMA-master/testatatt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8237A-DMA-master/8237A-DMA-master/testatatt.v|
+!s101 -O0
+!i113 1
+R5
+vfifo
+R16
+!i10b 1
+!s100 f<YMa;3fW5_2=X02A4bZj2
+In8hW4YP]zFZom5Ri=zbIQ3
+R1
+R2
+R11
+8E:/8237A-DMA-master/8237A-DMA-master/FIFO.v
+FE:/8237A-DMA-master/8237A-DMA-master/FIFO.v
+L0 1
+R3
+r1
+!s85 0
+31
+R22
+!s107 E:/8237A-DMA-master/8237A-DMA-master/FIFO.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8237A-DMA-master/8237A-DMA-master/FIFO.v|
+!s101 -O0
+!i113 1
+R5
+vfifo_32_16
+!s110 1576363275
+!i10b 1
+!s100 a9]YlHQ_e?o?8?z<mbCNc1
+I]Fni[D]<<4U6EEO5cJBg_0
+R1
+Z23 dF:/DMA
+w1576363272
+Z24 8F:/DMA/FIFO.v
+Z25 FF:/DMA/FIFO.v
+L0 1
+Z26 OV;L;10.5c;63
+r1
+!s85 0
+31
+!s108 1576363275.000000
+Z27 !s107 F:/DMA/FIFO.v|
+Z28 !s90 -reportprogress|300|-work|work|-stats=none|F:/DMA/FIFO.v|
+!i113 1
+Z29 o-work work
+Z30 tCvgOpt 0
+vholdRequest
+R0
+!i10b 1
+!s100 IK]SS3a?O7@351UdOSF3U2
+INk>M7l96[S9=FHzd`IUz70
+R1
+R2
+R11
+R12
+R13
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R14
+R15
+!s101 -O0
+!i113 1
+R5
+nhold@request
+vIObuffer
+R16
+!i10b 1
+!s100 a8EQLj=kQQ=29Jk:G<2Kk0
+Ij9Tdf;Ton1Z<`=Kn2<kT=2
+R1
+R2
+R11
+8E:/8237A-DMA-master/8237A-DMA-master/IObuffer.v
+FE:/8237A-DMA-master/8237A-DMA-master/IObuffer.v
+L0 1
+R3
+r1
+!s85 0
+31
+R22
+!s107 E:/8237A-DMA-master/8237A-DMA-master/IObuffer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8237A-DMA-master/8237A-DMA-master/IObuffer.v|
+!s101 -O0
+!i113 1
+R5
+n@i@obuffer
+vMASK_register
+R0
+!i10b 1
+!s100 XGU>l84AW3i>HkaA7[1XP3
+I`TI[OJ8?I4KUm<h]D;[Nb3
+R1
+R2
+R6
+R7
+R8
+L0 25
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!s101 -O0
+!i113 1
+R5
+n@m@a@s@k_register
+vMode_register
+R0
+!i10b 1
+!s100 ^TLRMXYADA2VOQz:>zfhE2
+IAeG>25mdW0<j^9QQfz]803
+R1
+R2
+R6
+R7
+R8
+L0 159
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!s101 -O0
+!i113 1
+R5
+n@mode_register
+vREQUEST_register
+R0
+!i10b 1
+!s100 S@@@T^C;JlMBj;cI8Gh8Y0
+Imfi6P:714[`zAW9RaaaA52
+R1
+R2
+R6
+R7
+R8
+L0 45
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!s101 -O0
+!i113 1
+R5
+n@r@e@q@u@e@s@t_register
+vSTATUS_register
+R0
+!i10b 1
+!s100 zdgLRjodP7>B6:zUknc=l0
+I8fkHJ<RhD_DdZmUkQi@::2
+R1
+R2
+R6
+R7
+R8
+L0 175
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!s101 -O0
+!i113 1
+R5
+n@s@t@a@t@u@s_register
+vtb
+!s110 1576617873
+!i10b 1
+!s100 DmQT=Qb1_=IGLHoGP`Hn^3
+IG1Wbd;V7dcb^_?@Jj^ZAn1
+R1
+R23
+w1576370082
+R24
+R25
+L0 50
+R26
+r1
+!s85 0
+31
+!s108 1576617873.000000
+R27
+R28
+!i113 1
+R29
+R30
+vtb__
+!s110 1576373299
+!i10b 1
+!s100 PN5Q7de<RBQ?Fg[FK=iJz3
+IRBjY:=Pflf[P1JA1MzHHC1
+R1
+R23
+w1576373180
+8F:/DMA/Channels_Priority.v
+FF:/DMA/Channels_Priority.v
+L0 15
+R26
+r1
+!s85 0
+31
+!s108 1576373299.000000
+!s107 F:/DMA/Channels_Priority.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/DMA/Channels_Priority.v|
+!i113 1
+R29
+R30
+vtestato
+R16
+!i10b 1
+!s100 a??DA6zOYKd^k;YMVGBfT0
+I9FTa]LBC444E7IJFkj0?>1
+R1
+R2
+R11
+8E:/8237A-DMA-master/8237A-DMA-master/testato.v
+FE:/8237A-DMA-master/8237A-DMA-master/testato.v
+L0 1
+R3
+r1
+!s85 0
+31
+R22
+!s107 E:/8237A-DMA-master/8237A-DMA-master/testato.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8237A-DMA-master/8237A-DMA-master/testato.v|
+!s101 -O0
+!i113 1
+R5
+vtransferMode
+R0
+!i10b 1
+!s100 3SJ8W8;l]l3RJ7lFc>V_80
+IVQ>16`<n357<ECB>5ZIoC0
+R1
+R2
+w1577455610
+8E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v
+FE:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v|
+!s101 -O0
+!i113 1
+R5
+ntransfer@mode
+vwriteBuffer
+R0
+!i10b 1
+!s100 g[`]MFCJKAI9HoIIljYUZ1
+I[dKE[dB?SEH2Q>:X^7YjO2
+R1
+R2
+R11
+8E:/8237A-DMA-master/8237A-DMA-master/convert8to16Buffer.v
+FE:/8237A-DMA-master/8237A-DMA-master/convert8to16Buffer.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/8237A-DMA-master/8237A-DMA-master/convert8to16Buffer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8237A-DMA-master/8237A-DMA-master/convert8to16Buffer.v|
+!s101 -O0
+!i113 1
+R5
+nwrite@buffer

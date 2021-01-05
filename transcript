@@ -1,0 +1,521 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile E:/8237A-DMA-master/8237A-DMA-master/DMA.mpf
+# Loading project DMA
+# 0 compiles, 11 failed with no errors.
+# Compile of Transfer_Modes.v was successful.
+# Compile of A0A3Decoder.v was successful.
+# Compile of Channels_Priority_1.v was successful.
+# Compile of COMMAND_Register.v was successful.
+# Compile of convert8to16Buffer.v was successful.
+# Compile of DMA.v was successful.
+# Compile of EL_Joker.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of IObuffer.v was successful.
+# Compile of testatatt.v was successful.
+# Compile of testato.v was successful.
+# 11 compiles, 0 failed with no errors.
+# Compile of Transfer_Modes.v was successful.
+# Compile of A0A3Decoder.v was successful.
+# Compile of Channels_Priority_1.v was successful.
+# Compile of COMMAND_Register.v failed with 1 errors.
+# Compile of convert8to16Buffer.v was successful.
+# Compile of DMA.v was successful.
+# Compile of EL_Joker.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of IObuffer.v was successful.
+# Compile of testatatt.v was successful.
+# Compile of testato.v was successful.
+# 11 compiles, 1 failed with 1 error.
+# Compile of COMMAND_Register.v failed with 1 errors.
+# Compile of COMMAND_Register.v was successful.
+# Compile of A0A3Decoder.v was successful.
+# Compile of Transfer_Modes.v was successful.
+# Compile of A0A3Decoder.v was successful.
+# Compile of Channels_Priority_1.v was successful.
+# Compile of COMMAND_Register.v was successful.
+# Compile of convert8to16Buffer.v was successful.
+# Compile of DMA.v was successful.
+# Compile of EL_Joker.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of IObuffer.v was successful.
+# Compile of testatatt.v was successful.
+# Compile of testato.v was successful.
+# 11 compiles, 0 failed with no errors.
+# Compile of DMA.v failed with 1 errors.
+# Compile of DMA.v was successful.
+# Compile of Transfer_Modes.v was successful.
+# Compile of A0A3Decoder.v was successful.
+# Compile of Channels_Priority_1.v was successful.
+# Compile of COMMAND_Register.v was successful.
+# Compile of convert8to16Buffer.v was successful.
+# Compile of DMA.v was successful.
+# Compile of EL_Joker.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of IObuffer.v was successful.
+# Compile of testatatt.v was successful.
+# Compile of testato.v was successful.
+# 11 compiles, 0 failed with no errors.
+# Compile of COMMAND_Register.v was successful.
+# Compile of Transfer_Modes.v was successful.
+# Compile of Transfer_Modes.v was successful.
+# Compile of Transfer_Modes.v was successful.
+# Compile of A0A3Decoder.v was successful.
+# Compile of Channels_Priority_1.v was successful.
+# Compile of COMMAND_Register.v was successful.
+# Compile of convert8to16Buffer.v was successful.
+# Compile of DMA.v was successful.
+# Compile of EL_Joker.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of IObuffer.v was successful.
+# Compile of testatatt.v was successful.
+# Compile of testato.v was successful.
+# 11 compiles, 0 failed with no errors.
+vsim -gui work.DMA
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui E:\8237A-DMA-master\8237A-DMA-master\DMA.mpf 
+# Start time: 03:05:08 on Dec 27,2019
+# Loading work.DMA
+# Loading work.A0A3Decoder
+# Loading work.holdRequest
+# Loading work.channels_priority
+# Loading work.COMMAND_register
+# Loading work.MASK_register
+# Loading work.REQUEST_register
+# Loading work.BaseAddress_and_BaseCount
+# Loading work.current_address
+# Loading work.Mode_register
+# Loading work.transferMode
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch0'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch1'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch2'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch3'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch_out'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(40): [PCDPC] - Port size (8) does not match connection size (1) for port 'DMA_data_bus_in'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/transfer_mode File: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v
+add wave sim:/DMA/*
+noforce sim:/DMA/clk
+force -freeze sim:/DMA/clk 1 0, 0 {50 ps} -r 100
+force -freeze sim:/DMA/IOW 0 0
+force -freeze sim:/DMA/DMA_data_bus_in 5 0
+# Invalid binary digit: 5.
+# ** Error: (vsim-4011) Invalid force value: 5 0.
+# 
+force -freeze sim:/DMA/address_A_in 4'b0010 0
+force -freeze sim:/DMA/HLDA 0 0
+run
+run
+run
+run
+quit -sim
+vsim -gui work.DMA
+# vsim 
+# Start time: 03:11:28 on Dec 27,2019
+# Loading work.DMA
+# Loading work.A0A3Decoder
+# Loading work.holdRequest
+# Loading work.channels_priority
+# Loading work.COMMAND_register
+# Loading work.MASK_register
+# Loading work.REQUEST_register
+# Loading work.BaseAddress_and_BaseCount
+# Loading work.current_address
+# Loading work.Mode_register
+# Loading work.transferMode
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch0'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch1'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch2'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch3'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch_out'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(40): [PCDPC] - Port size (8) does not match connection size (1) for port 'DMA_data_bus_in'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/transfer_mode File: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v
+add wave sim:/DMA/*
+force -freeze sim:/DMA/clk 1 0, 0 {50 ps} -r 100
+force -freeze sim:/DMA/IOW 0 0
+force -freeze sim:/DMA/HLDA 0 0
+force -freeze sim:/DMA/DMA_data_bus_in 5 0
+# Invalid binary digit: 5.
+# ** Error: (vsim-4011) Invalid force value: 5 0.
+# 
+force -freeze sim:/DMA/address_A_in 4'b0010 0
+run
+run
+run
+force -freeze sim:/DMA/DMA_data_bus_in 5 0
+# Invalid binary digit: 5.
+# ** Error: (vsim-4011) Invalid force value: 5 0.
+# 
+run
+force -freeze sim:/DMA/DMA_data_bus_in 8'b00000001 0
+run
+run
+run
+run
+restart
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch0'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch1'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch2'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch3'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch_out'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(40): [PCDPC] - Port size (8) does not match connection size (1) for port 'DMA_data_bus_in'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/transfer_mode File: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v
+force -freeze sim:/DMA/DMA_data_bus_in 8'b00000001 0
+force -freeze sim:/DMA/address_A_in 4'b0010 0
+force -freeze sim:/DMA/HLDA 0 0
+force -freeze sim:/DMA/IOW 0 0
+run
+run
+run
+# Compile of Transfer_Modes.v was successful.
+# Compile of A0A3Decoder.v was successful.
+# Compile of Channels_Priority_1.v was successful.
+# Compile of COMMAND_Register.v was successful.
+# Compile of convert8to16Buffer.v was successful.
+# Compile of DMA.v was successful.
+# Compile of EL_Joker.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of IObuffer.v was successful.
+# Compile of testatatt.v was successful.
+# Compile of testato.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.DMA
+# Loading work.A0A3Decoder
+# Loading work.holdRequest
+# Loading work.channels_priority
+# Loading work.COMMAND_register
+# Loading work.MASK_register
+# Loading work.REQUEST_register
+# Loading work.BaseAddress_and_BaseCount
+# Loading work.current_address
+# Loading work.Mode_register
+# Loading work.transferMode
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch0'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch1'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch2'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch3'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch_out'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(40): [PCDPC] - Port size (8) does not match connection size (1) for port 'DMA_data_bus_in'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/transfer_mode File: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v
+force -freeze sim:/DMA/clk 1 0, 0 {50 ps} -r 100
+force -freeze sim:/DMA/IOW 0 0
+force -freeze sim:/DMA/HLDA 0 0
+force -freeze sim:/DMA/DMA_data_bus_in 8'b00000001 0
+force -freeze sim:/DMA/address_A_in 4'b0010 0
+run
+run
+restart
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch0'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch1'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch2'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch3'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch_out'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(40): [PCDPC] - Port size (8) does not match connection size (1) for port 'DMA_data_bus_in'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/transfer_mode File: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v
+force -freeze sim:/DMA/clk 1 0, 0 {50 ps} -r 100
+force -freeze sim:/DMA/IOW 0 0
+force -freeze sim:/DMA/HLDA 0 0
+force -freeze sim:/DMA/DMA_data_bus_in 8'b00000010 0
+force -freeze sim:/DMA/address_A_in 4'0010 0
+# Invalid radix for based number: 0.
+# ** Error: (vsim-4011) Invalid force value: 4'0010 0.
+# 
+run
+force -freeze sim:/DMA/address_A_in 4'0010 0
+# Invalid radix for based number: 0.
+# ** Error: (vsim-4011) Invalid force value: 4'0010 0.
+# 
+run
+restart
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch0'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch1'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch2'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch3'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch_out'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(40): [PCDPC] - Port size (8) does not match connection size (1) for port 'DMA_data_bus_in'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/transfer_mode File: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v
+force -freeze sim:/DMA/clk 1 0, 0 {50 ps} -r 100
+force -freeze sim:/DMA/IOW 0 0
+force -freeze sim:/DMA/HLDA 0 0
+force -freeze sim:/DMA/DMA_data_bus_in 8'b00000001 0
+force -freeze sim:/DMA/address_A_in 4'b0010 0
+run
+run
+force -freeze sim:/DMA/DMA_data_bus_in 8'b00000010 0
+run
+force -freeze sim:/DMA/address_A_in 4'b0000 0
+run
+run
+# Compile of Transfer_Modes.v was successful.
+# Compile of Transfer_Modes.v was successful.
+# Compile of COMMAND_Register.v was successful.
+# Compile of Transfer_Modes.v was successful.
+# Compile of A0A3Decoder.v was successful.
+# Compile of Channels_Priority_1.v was successful.
+# Compile of COMMAND_Register.v was successful.
+# Compile of convert8to16Buffer.v was successful.
+# Compile of DMA.v was successful.
+# Compile of EL_Joker.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of IObuffer.v was successful.
+# Compile of testatatt.v was successful.
+# Compile of testato.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.DMA
+# Loading work.A0A3Decoder
+# Loading work.holdRequest
+# Loading work.channels_priority
+# Loading work.COMMAND_register
+# Loading work.MASK_register
+# Loading work.REQUEST_register
+# Loading work.BaseAddress_and_BaseCount
+# Loading work.current_address
+# Loading work.Mode_register
+# Loading work.transferMode
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch0'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch1'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch2'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch3'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch_out'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(40): [PCDPC] - Port size (8) does not match connection size (1) for port 'DMA_data_bus_in'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/transfer_mode File: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v
+force -freeze sim:/DMA/clk 0 0
+force -freeze sim:/DMA/clk 1 0, 0 {50 ps} -r 100
+force -freeze sim:/DMA/IOW 0 0
+force -freeze sim:/DMA/HLDA 0 0
+force -freeze sim:/DMA/DMA_data_bus_in 8'b00000001 0
+force -freeze sim:/DMA/address_A_in 4'b0010 0
+run
+run
+restart
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch0'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch1'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch2'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch3'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch_out'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(40): [PCDPC] - Port size (8) does not match connection size (1) for port 'DMA_data_bus_in'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/transfer_mode File: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v
+force -freeze sim:/DMA/IOW 0 0
+force -freeze sim:/DMA/HLDA 0 0
+force -freeze sim:/DMA/DMA_data_bus_in 8'b00000001 0
+force -freeze sim:/DMA/address_A_in 4'b0010 0
+force -freeze sim:/DMA/clk 1 0, 0 {50 ps} -r 100
+run
+force -freeze sim:/DMA/DMA_data_bus_in 8'b00000010 0
+run
+force -freeze sim:/DMA/DMA_data_bus_in 8'b00000000 0
+run
+# Compile of Transfer_Modes.v was successful.
+# Compile of A0A3Decoder.v was successful.
+# Compile of Channels_Priority_1.v was successful.
+# Compile of COMMAND_Register.v was successful.
+# Compile of convert8to16Buffer.v was successful.
+# Compile of DMA.v was successful.
+# Compile of EL_Joker.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of IObuffer.v was successful.
+# Compile of testatatt.v was successful.
+# Compile of testato.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.DMA
+# Loading work.A0A3Decoder
+# Loading work.holdRequest
+# Loading work.channels_priority
+# Loading work.COMMAND_register
+# Loading work.MASK_register
+# Loading work.REQUEST_register
+# Loading work.BaseAddress_and_BaseCount
+# Loading work.current_address
+# Loading work.Mode_register
+# Loading work.transferMode
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch0'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch1'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch2'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch3'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch_out'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(40): [PCDPC] - Port size (8) does not match connection size (1) for port 'DMA_data_bus_in'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/transfer_mode File: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v
+force -freeze sim:/DMA/clk 1 0, 0 {50 ps} -r 100
+force -freeze sim:/DMA/IOW 0 0
+force -freeze sim:/DMA/HLDA 0 0
+force -freeze sim:/DMA/DMA_data_bus_in 8'b00000001 0
+force -freeze sim:/DMA/address_A_in 4'b0010 0
+run
+# Compile of Transfer_Modes.v was successful.
+# Compile of A0A3Decoder.v was successful.
+# Compile of Channels_Priority_1.v was successful.
+# Compile of COMMAND_Register.v was successful.
+# Compile of convert8to16Buffer.v was successful.
+# Compile of DMA.v was successful.
+# Compile of EL_Joker.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of IObuffer.v was successful.
+# Compile of testatatt.v was successful.
+# Compile of testato.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.DMA
+# Loading work.A0A3Decoder
+# Loading work.holdRequest
+# Loading work.channels_priority
+# Loading work.COMMAND_register
+# Loading work.MASK_register
+# Loading work.REQUEST_register
+# Loading work.BaseAddress_and_BaseCount
+# Loading work.current_address
+# Loading work.Mode_register
+# Loading work.transferMode
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch0'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch1'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch2'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch3'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch_out'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(40): [PCDPC] - Port size (8) does not match connection size (1) for port 'DMA_data_bus_in'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/transfer_mode File: E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v
+noforce sim:/DMA/clk
+force -freeze sim:/DMA/clk 1 0, 0 {50 ps} -r 100
+force -freeze sim:/DMA/IOW 0 0
+force -freeze sim:/DMA/HLDA 0 0
+force -freeze sim:/DMA/DMA_data_bus_in 8'b00000001 0
+force -freeze sim:/DMA/address_A_in 4'b0010 0
+run
+run
+force -freeze sim:/DMA/DMA_data_bus_in 8'b00000010 0
+force -freeze sim:/DMA/address_A_in 4'b0000 0
+noforce sim:/DMA/DMA_data_bus_in
+noforce sim:/DMA/address_A_in
+noforce sim:/DMA/destination_register
+force -freeze sim:/DMA/DMA_data_bus_in 8'b00000010 0
+force -freeze sim:/DMA/address_A_in 4'b0000 0
+noforce sim:/DMA/destination_register
+run
+run
+force -freeze sim:/DMA/HLDA 1 0
+force -freeze sim:/DMA/DACK0 1 0
+force -freeze sim:/DMA/baseCount_register 16'b0000000000000001 0
+force -freeze sim:/DMA/commandReg 8'b00000001 0
+force -freeze sim:/DMA/commandReg 8'b00000001 0
+force -freeze sim:/DMA/DMA_data_bus_in 8'b10000001 0
+run
+run
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Compile of Transfer_Modes.v was successful.
+# Compile of A0A3Decoder.v was successful.
+# Compile of Channels_Priority_1.v was successful.
+# Compile of COMMAND_Register.v was successful.
+# Compile of convert8to16Buffer.v was successful.
+# Compile of DMA.v was successful.
+# Compile of EL_Joker.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of IObuffer.v was successful.
+# Compile of testatatt.v was successful.
+# Compile of testato.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.DMA
+# Loading work.A0A3Decoder
+# Loading work.holdRequest
+# Loading work.channels_priority
+# Loading work.COMMAND_register
+# Loading work.MASK_register
+# Loading work.REQUEST_register
+# Loading work.BaseAddress_and_BaseCount
+# Loading work.current_address
+# Loading work.Mode_register
+# Loading work.transferMode
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch0'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch1'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch2'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch3'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# ** Warning: (vsim-3015) E:/8237A-DMA-master/8237A-DMA-master/DMA.v(24): [PCDPC] - Port size (16) does not match connection size (1) for port 'ch_out'. The port definition is at: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /DMA/priorityCheck File: E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+# Warning in wave window restart: (vish-4014) No objects found matching '/DMA/DMA_internal_bus'. 
+force -freeze sim:/DMA/clk 1 0, 0 {50 ps} -r 100
+force -freeze sim:/DMA/HLDA 1 0
+force -freeze sim:/DMA/DMA_data_bus_in 8'bz10000001 0
+force -freeze sim:/DMA/commandReg 8'b00000001 0
+force -freeze sim:/DMA/baseAddress_register 12 0
+# Invalid binary digit: 2.
+# ** Error: (vsim-4011) Invalid force value: 12 0.
+# 
+force -freeze sim:/DMA/baseAddress_register 16'b0000000000000001 0
+force -freeze sim:/DMA/destination_register 16'b0000000000000010 0
+force -freeze sim:/DMA/baseCount_register 16'b0000000000000001 0
+force -freeze sim:/DMA/DACK0 1 0
+run
+# End time: 05:02:59 on Dec 27,2019, Elapsed time: 1:51:31
+# Errors: 9, Warnings: 59

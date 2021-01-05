@@ -1,0 +1,93 @@
+E:/8237A-DMA-master/8237A-DMA-master/IObuffer.v {1 {vlog -work work -stats=none E:/8237A-DMA-master/8237A-DMA-master/IObuffer.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IObuffer
+
+Top level modules:
+	IObuffer
+
+} {} {}} E:/8237A-DMA-master/8237A-DMA-master/testatatt.v {1 {vlog -work work -stats=none E:/8237A-DMA-master/8237A-DMA-master/testatatt.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module external
+
+Top level modules:
+	external
+
+} {} {}} E:/8237A-DMA-master/8237A-DMA-master/DMA.v {1 {vlog -work work -stats=none E:/8237A-DMA-master/8237A-DMA-master/DMA.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DMA
+-- Compiling module DMA_tb
+
+Top level modules:
+	DMA_tb
+
+} {} {}} E:/8237A-DMA-master/8237A-DMA-master/COMMAND_Register.v {1 {vlog -work work -stats=none E:/8237A-DMA-master/8237A-DMA-master/COMMAND_Register.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module COMMAND_register
+-- Compiling module MASK_register
+-- Compiling module REQUEST_register
+-- Compiling module BaseAddress_and_BaseCount
+-- Compiling module current_address
+-- Compiling module Mode_register
+-- Compiling module STATUS_register
+
+Top level modules:
+	COMMAND_register
+	MASK_register
+	REQUEST_register
+	BaseAddress_and_BaseCount
+	current_address
+	Mode_register
+	STATUS_register
+
+} {} {}} E:/8237A-DMA-master/8237A-DMA-master/A0A3Decoder.v {1 {vlog -work work -stats=none E:/8237A-DMA-master/8237A-DMA-master/A0A3Decoder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module A0A3Decoder
+
+Top level modules:
+	A0A3Decoder
+
+} {} {}} E:/8237A-DMA-master/8237A-DMA-master/EL_Joker.v {1 {vlog -work work -stats=none E:/8237A-DMA-master/8237A-DMA-master/EL_Joker.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module elJoker
+
+Top level modules:
+	elJoker
+
+} {} {}} E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v {1 {vlog -work work -stats=none E:/8237A-DMA-master/8237A-DMA-master/Transfer_Modes.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module transferMode
+
+Top level modules:
+	transferMode
+
+} {} {}} E:/8237A-DMA-master/8237A-DMA-master/FIFO.v {1 {vlog -work work -stats=none E:/8237A-DMA-master/8237A-DMA-master/FIFO.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module fifo
+
+Top level modules:
+	fifo
+
+} {} {}} E:/8237A-DMA-master/8237A-DMA-master/testato.v {1 {vlog -work work -stats=none E:/8237A-DMA-master/8237A-DMA-master/testato.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testato
+
+Top level modules:
+	testato
+
+} {} {}} E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v {1 {vlog -work work -stats=none E:/8237A-DMA-master/8237A-DMA-master/Channels_Priority_1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module holdRequest
+-- Compiling module channels_priority
+
+Top level modules:
+	holdRequest
+	channels_priority
+
+} {} {}} E:/8237A-DMA-master/8237A-DMA-master/convert8to16Buffer.v {1 {vlog -work work -stats=none E:/8237A-DMA-master/8237A-DMA-master/convert8to16Buffer.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module writeBuffer
+
+Top level modules:
+	writeBuffer
+
+} {} {}}
